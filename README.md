@@ -7,7 +7,11 @@ This is an E-Commerce Analytics project that I built using SQL and Power BI. The
 I first worked with the dataset in SQL to create the database and write queries for analysis. After that, I imported the data into Power BI, built relationships between tables, created DAX measures, and designed interactive dashboards.
 
 ---
+## 🌐 Live Dashboard
 
+👉 **[View the Interactive Power BI Dashboard](https://app.powerbi.com/links/eFlPc0c0pG?ctid=ff335ba2-bb68-489a-bbdd-f49ab4319838&pbi_source=linkShare)**
+
+---
 ## Tools Used
 
 - SQL
