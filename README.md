@@ -1,5 +1,9 @@
 # 🛒 ShopKart E-Commerce Analytics Dashboard
 
+![SQL](https://img.shields.io/badge/MySQL-SQL-blue?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?logo=microsoftexcel&logoColor=white)
+
 ## About the Project
 
 This is an E-Commerce Analytics project that I built using SQL and Power BI. The aim of this project was to understand how sales data can be analyzed and converted into meaningful business insights using interactive dashboards.
